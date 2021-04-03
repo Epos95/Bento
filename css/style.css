@@ -10,11 +10,11 @@
   --fses: 16px; /* Links List */
 
   /* Light theme  */
-  --accent: #4b8ec4; /* Hover color */
-  --bg: #f5f5f5; /* Background color */
-  --sbg: #e4e6e6; /* Cards color */
-  --fg: #3a3a3a; /* Foreground color */
-  --sfg: #3a3a3a; /* Sceondary Foreground color */
+  --accent: #bdae93; /* Hover color */
+  --bg: #f2e5bc; /* Background color */
+  --sbg: #282828; /* Cards color */
+  --fg: #ebdbb2; /* Foreground color */
+  --sfg: #ebdbb2; /* Sceondary Foreground color */
 
   /* Image background  */
 
@@ -36,7 +36,7 @@
   --bg: #282828; /* Background color */
   --sbg: #ebdbb2; /* Cards color */
   --fg: #3c3836; /* Foreground color */
-  --sfg: #32302f; /* Secondary Foreground color */
+  --sfg: #3c3836; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
