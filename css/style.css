@@ -36,7 +36,7 @@
   --bg: #282828; /* Background color */
   --sbg: #ebdbb2; /* Cards color */
   --fg: #3c3836; /* Foreground color */
-  --sfg: #3c3836; /* Secondary Foreground color */
+  --sfg: #ebdbb2; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
