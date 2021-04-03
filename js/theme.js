@@ -37,7 +37,9 @@ themeToggle.addEventListener("click", () => {
 // Theme accordint the hour
 
 const today = new Date();
+const hour = today.getHours();
 
+console.log(hour);
 if (hour >= 19 || hour < 5) {
     console.log("is night!")
     enableDark();
