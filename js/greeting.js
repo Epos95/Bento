@@ -1,6 +1,7 @@
 // Get the hour
-const today = new Date();
-const hour = today.getHours();
+var today = new Date();
+var hour = today.getHours();
+console.log(hour);
 
 // Here you can change your name
 const name = ' Epos';
